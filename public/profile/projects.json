@@ -1,0 +1,117 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/shubh-vivah.png",
+            "title": "Shubh Vivah - Smart Matrimonial Platform",
+            "bodyText": "A high-scale matchmaking ecosystem featuring automated profile discovery and real-time synchronization between web and mobile platforms. Developed comprehensive solutions including User Mobile App, Web Portal, Admin Dashboard, and high-conversion Landing Page.\n\n**Outcome**: Revolutionized regional matchmaking by digitizing traditional processes, resulting in a 40% increase in user engagement through precise algorithmic matching and secure data handling.",
+            "links": [
+                {
+                    "text": "Landing Page",
+                    "href": "https://github.com/ShubhvivahThynktech/ShubhVivah-LandingPage"
+                },
+                {
+                    "text": "App Repo",
+                    "href": "https://github.com/rishi048229/Shubh-vivah-app"
+                }
+            ],
+            "tags": [
+                "React",
+                "React Native",
+                "PostgreSQL",
+                "Spring Boot",
+                "REST APIs"
+            ]
+        },
+        {
+            "image": "images/projects/hospital-system.png",
+            "title": "Smart Hospital Management Ecosystem",
+            "bodyText": "A robust digital health platform designed to automate patient records, doctor scheduling, and pharmacy inventory management. Features a secure patient portal and integrated billing system with real-time analytics for hospital administration.\n\n**Outcome**: Optimized administrative workflows by 35% and improved patient data accessibility, providing a seamless digital experience for both healthcare providers and patients.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rishi048229/Hospital-Management-System"
+                }
+            ],
+            "tags": [
+                "React",
+                "Node.js",
+                "PostgreSQL",
+                "Express",
+                "Chart.js"
+            ]
+        },
+        {
+            "image": "images/projects/logistics.png",
+            "title": "Logistics-X - Real-Time Management System",
+            "bodyText": "An enterprise-grade logistics solution designed to empower fleet owners with real-time control over trucks, trip schedules, driver performance, and financial collections. Integrated Google Maps API for precise tracking and automated daily reporting.\n\n**Outcome**: Digitized manual logistics workflows, providing end-to-end visibility that reduced operational overhead by 30% and significantly optimized trip turnaround times.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rishi048229/Real-Time-Logistics-Management-System"
+                }
+            ],
+            "tags": [
+                "React",
+                "Flutter",
+                "MySQL",
+                "Spring Boot",
+                "Google Maps API",
+                "Redis"
+            ]
+        },
+        {
+            "image": "images/projects/event-management.png",
+            "title": "Ram Pulse - Event Planning Ecosystem",
+            "bodyText": "A centralized digital marketplace for automated event planning, bridging the gap between customers and service providers. Features a vendor comparison engine and self-service planning tools for events ranging from small birthdays to large marriages.\n\n**Outcome**: Streamlined the vendor discovery and booking lifecycle, providing a 25% efficiency gain in event coordination and establishing a robust platform for local service scaling.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rishi048229/Ram-pulse-events"
+                }
+            ],
+            "tags": [
+                "React",
+                "Node.js",
+                "PostgreSQL",
+                "Sequelize",
+                "AWS S3"
+            ]
+        },
+        {
+            "image": "images/projects/animated-web.png",
+            "title": "The Aesthete - Highly Animated Showcase",
+            "bodyText": "A high-performance, visually stunning web application pushing the boundaries of modern frontend development. Utilizes advanced WebGL animations, Three.js shaders, and smooth inertia scrolling to create an immersive storytelling experience.\n\n**Outcome**: Won technical acclaim for its unique design language and performance optimization, showcasing mastery in high-end creative coding and user experience design.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rishi048229/Awarded-website"
+                }
+            ],
+            "tags": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Locomotive Scroll",
+                "GSAP",
+                "Three.js"
+            ]
+        },
+        {
+            "image": "images/projects/amazon-clone.png",
+            "title": "Amazon Ecosystem - UI Architecture",
+            "bodyText": "A pixel-perfect architectural replica of the Amazon e-commerce storefront, focusing on complex responsive layouts and interactive product modules. Developed using core web technologies to demonstrate high-fidelity UI/UX replication capabilities.\n\n**Outcome**: Served as a rigorous testbed for advanced CSS grid and flexbox architectures, proving the ability to handle enterprise-level UI complexity with precision and efficiency.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rishi048229/amazon-clone-project-css.html"
+                }
+            ],
+            "tags": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "intro": "I don't just write code; I **architect digital experiences**. My approach to problem-solving is a blend of clinical logic and artistic intuition. I find my flow in the delicate balance between complex backend systems and pixel-perfect frontends.\n\nFor me, coding isn't a 9-to-5—it's a **lifestyle of constant iteration**, where every bug is a puzzle and every deployment is a milestone in craftsmanship. Whether it's optimizing performance or building immersive user journeys, I am driven by the impact my work has on the end-user.\n\nMy journey is defined by a relentless pursuit of **excellence and innovation**. From developing cross-platform applications to engineering centralized management systems, I treat every project as an opportunity to push the boundaries of what's possible in the digital realm.",
+    "imageSource": "images/about_rishi.jpg",
+    "cards": [
+        {
+            "title": "Problem Solver",
+            "text": "Analytical approach to complex challenges, focusing on scalable and efficient architectures.",
+            "icon": "🧩"
+        },
+        {
+            "title": "Creative Dev",
+            "text": "Blending artistic intuition with technical precision to build immersive, animated frontends.",
+            "icon": "🎨"
+        },
+        {
+            "title": "Agile Learner",
+            "text": "Constantly evolving with the latest tech stacks to deliver state-of-the-art software solutions.",
+            "icon": "🚀"
+        },
+        {
+            "title": "User Centric",
+            "text": "Committed to delivering seamless user experiences through clean code and intuitive design.",
+            "icon": "👥"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "experiences": [
+        {
+            "title": "Associate Software Engineer",
+            "subtitle": "Global Enterprise Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                "Spearheaded the development of a cross-platform **Matrimonial Platform**, integrating real-time matchmaking algorithms and intuitive user interfaces for high scalability.",
+                "Engineered a centralized **Hospital Management System (HMS)**, digitizing clinician workflows and optimizing patient data management systems for mission-critical reliability.",
+                "Contributed to the full-cycle development of three enterprise-grade software solutions, ensuring seamless integration and robust performance across multiple environments."
+            ],
+            "dateText": "June 2025 – Present"
+        },
+        {
+            "title": "Web Developer (Intern)",
+            "subtitle": "Cognifyz Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Architected and deployed high-performance, **responsive landing pages** utilizing modern frontend frameworks and semantic HTML/CSS structures.",
+                "Implemented comprehensive **performance tuning** and SEO best practices, significantly optimizing Core Web Vitals for enhanced user engagement and search visibility.",
+                "Engineered immersive, interactive frontend components with **advanced motion systems (GSAP)** to elevate brand storytelling and user experience."
+            ],
+            "dateText": "March 2025 – June 2025"
+        }
+    ],
+    "summary": "A results-driven Software Engineer with **10 months of professional experience** in designing, developing, and maintaining high-quality web and mobile applications. Expert in modern frontend ecosystems and building scalable, user-centric solutions."
+}

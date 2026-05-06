@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #090909;
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Locomotive Scroll Resets */
+html.has-scroll-smooth {
+  overflow: hidden;
+}
+
+html.has-scroll-dragging {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.has-scroll-smooth body {
+  overflow: hidden;
+}
+
+.has-scroll-smooth [data-scroll-container] {
+  min-height: 100vh;
+}
+
+/* Shimmer Glow Effect */
+.mouse-shimmer {
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(245, 197, 24, 0.12) 0%, transparent 70%);
+  position: fixed;
+  pointer-events: none;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  filter: blur(40px);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+/* Navbar Customizations */
+.navbar-custom {
+  background-color: rgba(9, 9, 9, 0.8) !important;
+  backdrop-filter: blur(15px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  z-index: 1000;
+  padding: 1.5rem 0; /* Larger navbar */
+}
+
+.navbar__link--active {
+  color: #f5c518 !important;
+}
+
+/* Hero Section Typography */
+h1.hero-name {
+  font-family: 'Syne', sans-serif;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: clamp(3rem, 10vw, 6rem) !important; /* Larger fluid scaling */
+  letter-spacing: -2px;
+}
+
+h2.hero-subtitle {
+  font-family: 'Syne', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: clamp(1.2rem, 3vw, 2rem) !important;
+  color: rgba(255, 255, 255, 0.6) !important;
+  letter-spacing: 4px;
+}
+
+.bebas-font {
+  font-family: 'Syne', sans-serif;
+  text-transform: uppercase;
+}
+
+/* Ensure default cursor pointers work */
+a, button, .nav-link, .navbar-brand {
+  cursor: pointer !important;
+}
+
+/* Global Section Styling */
+[data-scroll-section] {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  padding: 80px 0;
+}
+
+/* Ensure content fills the screen properly */
+.section-content-container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+/* Alignment Helpers */
+.full-screen-center {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/* Professional Scrollbar (for non-LS fallback or just style) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090909;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f5c518;
+  border-radius: 10px;
+}
+
+/* Experience Specific Styling Enhancement */
+.experience-summary p {
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.8;
+  font-size: 1.2rem;
+  font-family: 'Outfit', sans-serif;
+}
+
+.item-title {
+  letter-spacing: 1px;
+}
+
+/* Fix for potential white space or misalignment */
+.MainApp {
+  background-color: #090909;
+}

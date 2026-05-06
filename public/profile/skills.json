@@ -1,0 +1,102 @@
+{
+    "intro": "I architect robust digital solutions using a modern, industry-standard tech stack. My expertise spans across frontend interactivity, mobile ecosystems, and scalable backend architectures.",
+    "skills": [
+        {
+            "title": "Languages",
+            "items": [
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML5"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS3"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                }
+            ]
+        },
+        {
+            "title": "Databases",
+            "items": [
+                {
+                    "icon": "images/skills/batch1_0.png",
+                    "title": "PostgreSQL"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks & Mobile",
+            "items": [
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/react-native.png",
+                    "title": "React Native"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                },
+                {
+                    "icon": "images/skills/batch1_1.png",
+                    "title": "Spring Boot"
+                },
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                }
+            ]
+        },
+        {
+            "title": "Animation & Libraries",
+            "items": [
+                {
+                    "icon": "images/skills/batch1_2.png",
+                    "title": "GSAP"
+                },
+                {
+                    "icon": "images/skills/batch1_3.png",
+                    "title": "Three.js"
+                },
+                {
+                    "icon": "images/skills/batch2_0.png",
+                    "title": "Locomotive"
+                },
+                {
+                    "icon": "images/skills/batch2_1.png",
+                    "title": "TanStack"
+                }
+            ]
+        },
+        {
+            "title": "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/batch2_2.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+        }
+    ]
+}
