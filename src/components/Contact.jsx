@@ -1,5 +1,10 @@
 import React from 'react';
-import { Container, Row, Col, Card } from 'react-bootstrap';
+import {
+  Container,
+  Row,
+  Col,
+  Card,
+} from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import Fade from 'react-reveal/Fade';
 import Header from './Header';

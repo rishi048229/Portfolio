@@ -1,5 +1,14 @@
-import React, { useState, useEffect, Suspense } from 'react';
-import { Switch, Route, NavLink, useLocation } from 'react-router-dom';
+import React, {
+  useState,
+  useEffect,
+  Suspense,
+} from 'react';
+import {
+  Switch,
+  Route,
+  NavLink,
+  useLocation,
+} from 'react-router-dom';
 import { Container } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import FallbackSpinner from './components/FallbackSpinner';
@@ -98,6 +107,7 @@ function MainApp() {
         scroll.scrollTo(0, { duration: 0, disableLerp: true });
       }
     } catch (e) {
+      // eslint-disable-next-line no-console
       console.error('Scroll initialization failed:', e);
     }
 
@@ -156,7 +166,15 @@ function MainApp() {
           </Suspense>
         </main>
       </div>
-      <footer className="footer-nav py-5" style={{ background: '#090909', position: 'relative', zIndex: '2', borderTop: '1px solid rgba(255,255,255,0.05)' }}>
+      <footer
+        className="footer-nav py-5"
+        style={{
+          background: '#090909',
+          position: 'relative',
+          zIndex: '2',
+          borderTop: '1px solid rgba(255,255,255,0.05)',
+        }}
+      >
         <Container className="text-center">
           <div className="d-flex justify-content-center flex-wrap gap-4">
             {data?.sections?.map((section) => (
